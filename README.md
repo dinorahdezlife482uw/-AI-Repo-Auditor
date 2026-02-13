@@ -83,7 +83,7 @@ Suggestions:
 
 Download the latest version from the Releases section:
 
-👉 [RELEASES] (https://github.com/dinorahdezlife482uw/-AI-Repo-Auditor/releases)
+ [RELEASES](https://github.com/dinorahdezlife482uw/-AI-Repo-Auditor/releases)
 ### 2️⃣ Install
 
 1. Run ai-repo-auditor
