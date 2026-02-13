@@ -67,7 +67,7 @@ Risk Areas:
 - No abstraction for external APIs
 
 - Missing integration tests for critical flows
-
+```
 Suggestions:
 
 1. Extract interface layer for service modules
@@ -100,6 +100,6 @@ By default, the program will be added to PATH.
 
 Open PowerShell or CMD and do the following:
 
-```bash
+
 
 Ai-audit --version
