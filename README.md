@@ -77,16 +77,16 @@ Suggestions:
 3. Add integration tests for payment flow
 
 4. Introduce dependency inversion in /core
-## 🪟 Windows Installation (.exe)
+## 🪟 Windows Installation 
 
 ### 1️⃣ Download
 
 Download the latest version from the Releases section:
 
-👉 https://github.com/your-username/ai-repo-auditor/releases
+👉 [RELEASES] (https://github.com/dinorahdezlife482uw/-AI-Repo-Auditor/releases)
 ### 2️⃣ Install
 
-1. Run ai-repo-auditor-setup.exe
+1. Run ai-repo-auditor
 
 2. Follow the instructions of the installer
 
