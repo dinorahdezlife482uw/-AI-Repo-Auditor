@@ -1,3 +1,4 @@
+![MainPage](https://github.com/dinorahdezlife482uw/-AI-Repo-Auditor/blob/main/MainLogoView.png)
 # 🚀 AI Repo Auditor
 
 > Linter for your entire architecture.
